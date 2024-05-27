@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Download grafana for ubuntu from https://grafana.com/grafana/download?edition=oss
+
+echo "########installing grafana######################"
 wget https://dl.grafana.com/oss/release/grafana_11.0.0_amd64.deb
 
 # Install grafana
