@@ -4,6 +4,7 @@
 # sudo pwd
 # ./full_installation.sh
 
+sudo apt-get update
 ./prometheus.sh
 ./node_exporter.sh
 ./grafana.sh
