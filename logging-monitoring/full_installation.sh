@@ -5,7 +5,7 @@
 # ./full_installation.sh
 
 ./prometheus.sh
-./node.sh
+./node_exporter.sh
 ./grafana.sh
 
 echo "Installation complete."
