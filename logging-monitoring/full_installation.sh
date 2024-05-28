@@ -1,5 +1,5 @@
 #!/bin/bash
-# Example:
+# Example scripts for ubuntu machines
 # chmod +x full_installation.sh prometheus.sh node_exporter.sh grafana.sh
 # sudo pwd
 # ./full_installation.sh
